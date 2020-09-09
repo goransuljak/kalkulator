@@ -1,0 +1,16 @@
+/// SIMPLE CALCULATOR
+
+this project I found on youtube and it was simple and fun
+
+1.FIRST IN HTML WE CREEATE FORM WITH CLASS NAME, AND NAME, INSIDE OF FORM WE CREATE INPUT WITH
+VALUE TYPE NAME READONLY, AND SPAN WITH CLASS OF NUM AND ON CLICK FUNCTION WITH 
+document.calc.txt.value += '' 
+(we add all the calculator digits and functions in multiple spans)
+2.THEN STYLE EVERYTHING IN CSS 
+(this is all in grid) 
+3.THEN WE ADD EVAL FUNCTION INSIDE OF EQUAL
+(eval(calc.txt.value)
+4.AND ON CLEAR WE JUST ADD EMPTY VALUE "" CONTENT
+
+
+this was very fast and simple buidling of calculator and I had to try it 
